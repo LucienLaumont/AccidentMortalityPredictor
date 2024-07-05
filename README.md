@@ -1,5 +1,12 @@
 # 🚗🔍 Mortality Estimation in Road Accidents
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Docker](https://img.shields.io/badge/Docker-19.03.12-blue)
+![Scrapy](https://img.shields.io/badge/Scrapy-2.4.1-green)
+![Dash](https://img.shields.io/badge/Dash-1.16.0-yellow)
+![Plotly](https://img.shields.io/badge/Plotly-4.10.0-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green)
+
 ## 📋 Overview
 This project was conducted as part of a machine learning course during my second year at ESIEE Paris, an engineering school. The goal was to use various models and algorithms to achieve the best Area Under the Curve (AUC) score for predicting mortality in road accidents. The data was provided by the National Interministerial Road Safety Observatory (ONISR).
 
