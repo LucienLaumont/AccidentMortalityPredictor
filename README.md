@@ -4,7 +4,7 @@
 This project was conducted as part of a machine learning course during my second year at ESIEE Paris, an engineering school. The goal was to use various models and algorithms to achieve the best Area Under the Curve (AUC) score for predicting mortality in road accidents. The data was provided by the National Interministerial Road Safety Observatory (ONISR).
 
 ## 🎯 Objective
-The main objective of this project was to predict the likelihood of mortality in road accidents using machine learning models. The performance of the models was evaluated based on the AUC score, **with the best-performing model achieving an AUC of 0.854 wich is mine !**
+The main objective of this project was to predict the likelihood of mortality in road accidents using machine learning models. The performance of the models was evaluated based on the AUC score, **with the best-performing model achieving an AUC of 0.854 which is mine !**
 
 ## 📊 Dataset
 The dataset used in this project was provided by the ONISR and included comprehensive information on road accidents. The data covered various aspects such as accident circumstances, vehicle details, and user characteristics. It was important to handle the data carefully to ensure accuracy and consistency, especially since safety equipment standards changed between 2013 and 2020.
