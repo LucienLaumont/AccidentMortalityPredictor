@@ -36,8 +36,8 @@ This project demonstrated the importance of data preprocessing and the effective
 I would like to thank ESIEE Paris for organizing this project and providing the necessary resources and support. Special thanks to the National Interministerial Road Safety Observatory (ONISR) for supplying the data.
 
 ## 👨‍💻 Author
-- **[Your Name]**
+- **[Lucien Laumont]**
 - **2nd Year Student at ESIEE Paris**
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📞 Contact
+laumont.lucien@gmail.com
